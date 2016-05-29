@@ -1,0 +1,60 @@
+.v {
+text-align: center;
+border:1px solid #999;
+ border-radius: 9px;
+padding: 10px;
+margin: 10px;
+margin-left: 60px;
+ width: 220px;
+}
+
+
+
+.v1 {
+text-align: center;
+border:1px solid #999;
+ border-radius: 9px;
+padding: 10px;
+margin: 10px;
+margin-left: 100px;
+ width: 460px;
+}
+
+
+
+.w3-lobster {
+  font-family: "Lobster", serif;
+}
+
+.n {
+position: absolute;
+
+left: 40%;
+top: 120px;
+}
+
+.n1 {
+margin-left: 60px;
+text-align: center;
+}
+
+.n2 {
+margin-left: 130px;
+}
+
+.n3 {
+position: absolute;
+
+left: 1030px;
+top: 120px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+
+input[type=text], select {
+border-radius: 5px;
+border: 1px solid #ccc;
+}
