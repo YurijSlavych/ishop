@@ -49,6 +49,13 @@ left: 1030px;
 top: 120px;
 }
 
+.n4 {
+position: absolute;
+
+left: 980px;
+top: 120px;
+}
+
 a:link {
     text-decoration: none;
 }
